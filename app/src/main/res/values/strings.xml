@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tailor Management</string>
+
+
+    <string name="open" />
+    <string name="close" />
+</resources>

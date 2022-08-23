@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "709275022208",
+    "project_id": "tylorapphamzadeveloper",
+    "storage_bucket": "tylorapphamzadeveloper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709275022208:android:d15fb09201e3e110cc8765",
+        "android_client_info": {
+          "package_name": "com.hamzadev.tylorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709275022208-qmbncnc8oao7vuc72m47j7dmp7teep49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy87ytUBVu4c_n1Mw5emGoVc_2dpqqwoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709275022208-qmbncnc8oao7vuc72m47j7dmp7teep49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

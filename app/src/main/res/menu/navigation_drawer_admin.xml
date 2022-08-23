@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/home_nav"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24" />
+
+
+
+
+    <item android:id="@+id/shareApp"
+        android:title="Share"
+        android:iconTint="@color/black"
+        android:icon="@drawable/ic_baseline_share_24"/>
+
+    <item android:id="@+id/logOutId"
+        android:title="Logout"
+        android:iconTint="@color/black"
+        android:icon="@drawable/ic_baseline_south_west_24"/>
+
+</menu>
